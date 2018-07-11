@@ -1,4 +1,4 @@
- %% Author : Deepak Karuppia  10/15/01
+
 
 %% Generate 3D calibration pattern: 
 %% Pw holds 32 points on two surfaces (Xw = 1 and Yw = 1) of a cube 
